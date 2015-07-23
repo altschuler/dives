@@ -1,0 +1,22 @@
+<divelog program='subsurface' version='2'>
+<settings>
+</settings>
+<dives>
+<dive number='1' rating='3' visibility='1' tags='Course' date='2004-03-09' time='22:03:03' duration='46:00 min'>
+  <location gps='55.684836 12.612634'>Lynetten, Denmark</location>
+  <buddy>Sascha, Sally</buddy>
+  <notes>First dive of Open Water course.</notes>
+  <suit>wet</suit>
+  <cylinder size='11.1 l' workpressure='207.0 bar' description='unknown' />
+  <divecomputer model='manually added dive' date='2015-07-23' time='22:03:03'>
+  <depth max='13.716 m' mean='12.557 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='0:48 min' depth='13.725 m' />
+  <sample time='40:00 min' depth='13.716 m' />
+  <sample time='42:00 min' depth='4.572 m' />
+  <sample time='45:00 min' depth='4.572 m' />
+  <sample time='46:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+</dives>
+</divelog>
